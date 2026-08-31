@@ -1,0 +1,1 @@
+flag{C2.domains.are.dangerous}
